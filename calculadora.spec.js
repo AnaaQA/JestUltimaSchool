@@ -21,6 +21,6 @@ test ('sub um Numeros', () =>{
 
 test ('mult um  vezes Numeros', () =>{
 
-    expect (mult.mult(5,3)).toBe(10)
+    expect (mult.mult(5,3)).toBe(15)
     
 })
